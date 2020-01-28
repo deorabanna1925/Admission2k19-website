@@ -3,7 +3,7 @@ This accept user data from a form and stores in firebase.
 [get android app source code](https://github.com/deorabanna1925/Admission2k19-android)
 
 ## Website
-![](/screenshot/screenshot.png)
+![](/img/screenshot.png)
 
 ## App
 <table style="width:100%">
